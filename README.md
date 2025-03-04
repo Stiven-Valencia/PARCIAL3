@@ -160,35 +160,5 @@ Copiar
 Estructura del Proyecto
 text
 
-Contraer
-
-Ajuste
-
-Copiar
-src/
-├── main/
-│   ├── java/com/example/demo/
-│   │   ├── DemoApplication.java
-│   │   ├── config/
-│   │   │   └── WebConfig.java
-│   │   ├── model/
-│   │   │   ├── Producto.java
-│   │   │   └── Pedido.java
-│   │   ├── service/
-│   │   │   ├── ProductoService.java
-│   │   │   └── PedidoService.java
-│   │   └── controller/
-│   │       ├── SaludoController.java
-│   │       ├── ProductoController.java
-│   │       └── PedidoController.java
-│   └── resources/
-│       ├── messages_es.properties
-│       ├── messages_en.properties
-│       ├── messages_fr.properties
-│       └── application.properties
-Contribuir
-Haz un fork del repositorio.
-Crea una nueva rama:
-bash
 
 
